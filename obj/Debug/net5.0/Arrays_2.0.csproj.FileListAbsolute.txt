@@ -1,0 +1,16 @@
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\Arrays_2.0.exe
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\Arrays_2.0.deps.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\Arrays_2.0.runtimeconfig.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\Arrays_2.0.runtimeconfig.dev.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\Arrays_2.0.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\ref\Arrays_2.0.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\bin\Debug\net5.0\Arrays_2.0.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.csproj.AssemblyReference.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.AssemblyInfoInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.AssemblyInfo.cs
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.csproj.CoreCompileInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\ref\Arrays_2.0.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Arrays_2.0\obj\Debug\net5.0\Arrays_2.0.genruntimeconfig.cache
